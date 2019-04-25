@@ -8,4 +8,4 @@ All 9 parts you can find on my page: [pylessons.com/Logistic-Regression-tutorial
 
 This tutorial consists of 4 parts, this is continuation tutorials of logistic regression tutorials.
 
-All 4 parts you can find on my page: [pylessons.com/Neural-network-single-layer//](https://pylessons.com/Neural-network-single-layer//)
+All 4 parts you can find on my page: [pylessons.com/Neural-network-single-layer/](https://pylessons.com/Neural-network-single-layer//)
